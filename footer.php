@@ -1,4 +1,4 @@
-	</div> <!-- End .container -->
+	</div>
 	<footer>
 		<!-- Put something here. -->
 	</footer>
